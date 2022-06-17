@@ -1,2 +1,0 @@
-setenv test 2
-echo $test
